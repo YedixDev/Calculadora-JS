@@ -1,4 +1,4 @@
-//Esta funcion define la interaccion de los botones de la calculadora.
+co; //Esta funcion define la interaccion de los botones de la calculadora.
 
 function agregar(valor) {
   document.getElementById("pantalla").value += valor;
